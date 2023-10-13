@@ -11,7 +11,7 @@ You can find the original design provided by Front-end Mentor and my result.
 ![Design by Front-end Mentor.](/design/desktop-design.jpg)
 
 ### My Result
-Online version: [Live link](https://albertodemaria.github.io/FE-Mentor__Profile-card-component/public_html/index.html)
+Online version: [Live link](https://albertodemaria.github.io/FE-Mentor_Advice-generator-app/public_html/index.html)
 
 ![My result.](/design/result/Final.png)
 
